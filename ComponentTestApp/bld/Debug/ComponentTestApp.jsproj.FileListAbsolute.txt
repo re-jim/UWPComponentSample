@@ -1,0 +1,6 @@
+C:\Users\Grant\source\repos\ComponentTestApp\ComponentTestApp\bin\Debug\RuntimeComponent1.winmd
+C:\Users\Grant\source\repos\ComponentTestApp\ComponentTestApp\bin\Debug\RuntimeComponent1.pdb
+C:\Users\Grant\source\repos\ComponentTestApp\ComponentTestApp\bin\Debug\RuntimeComponent1.pri
+C:\Users\Grant\source\repos\ComponentTestApp\ComponentTestApp\bld\Debug\ComponentTestApp.jsprojAssemblyReference.cache
+C:\Users\Grant\source\repos\ComponentTestApp\ComponentTestApp\bld\Debug\ComponentTestApp.jsproj.CoreCompileInputs.cache
+C:\Users\Grant\source\repos\ComponentTestApp\ComponentTestApp\bld\Debug\ComponentTestApp.jsproj.CopyComplete

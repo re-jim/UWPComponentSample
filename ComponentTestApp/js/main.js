@@ -1,0 +1,1 @@
+﻿console.log(RuntimeComponent1.Example.doSomething())
